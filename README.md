@@ -8,6 +8,9 @@
   <a href="https://www.linkedin.com/in/pedro-p-115239376">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
+  <a href="https://pmpimentel.github.io/">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=flat&logo=githubpages&logoColor=white"/>
+  </a>
 </p>
 
 ---
