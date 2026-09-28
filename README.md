@@ -38,7 +38,6 @@ Currently developing projects and expanding my experience with programming, data
 - Building software and data-driven projects
 - Exploring databases, data visualization and business intelligence
 
-### Contributions
 
 <p align="center">
   <img src="./assets/pedro-signal.svg" width="100%" alt="Pedro - Software and Data"/>
